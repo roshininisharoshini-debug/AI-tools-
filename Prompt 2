@@ -1,0 +1,14 @@
+Act as a professional college timetable coordinator. Create a well-organized weekly class timetable for a second-year CSE (Computer Science and Engineering) section with 6 subjects.
+
+Requirements:
+
+- Include all 6 subjects.
+- Prepare a timetable from Monday to Friday.
+- Include 6 periods per day.
+- Allocate suitable time slots for each subject.
+- Include breaks and lunch time.
+- Distribute subjects evenly throughout the week.
+- Avoid repeating the same subject too frequently.
+- Present the timetable in a clear table format.
+
+Make the timetable simple, balanced, realistic, and easy for students to understand.
