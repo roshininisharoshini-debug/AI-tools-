@@ -2,7 +2,7 @@ Act as a professional college timetable coordinator. Create a well-organized wee
 
 Requirements:
 
-- Include all 6 subjects.
+- Include (Tamil, english, maths, physics, chemistry, computer science)
 - Prepare a timetable from Monday to Friday.
 - Include 6 periods per day.
 - Allocate suitable time slots for each subject.
